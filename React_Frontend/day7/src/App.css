@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .app {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  nav {
+    margin: 10px 0;
+  }
+  
+  nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: blue;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  h2 {
+    margin: 20px 0;
+  }
+  
+  input, button, select {
+    margin: 5px;
+    padding: 8px;
+    width: 200px;
+  }
+  
+  button {
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
